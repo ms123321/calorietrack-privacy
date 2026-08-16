@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CalorieTrack — Request account deletion</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #0c1118;
+      --card: #141b24;
+      --text: #e8eef5;
+      --muted: #9aa8b8;
+      --accent: #3dd68c;
+      --border: rgba(255, 255, 255, 0.08);
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f6f8fb;
+        --card: #fff;
+        --text: #111827;
+        --muted: #5b6570;
+        --border: rgba(0, 0, 0, 0.08);
+      }
+    }
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: 2rem 1.15rem 3rem;
+      line-height: 1.6;
+      color: var(--text);
+      background: var(--bg);
+    }
+    h1 { font-size: 1.5rem; margin: 0 0 0.5rem; }
+    .meta { color: var(--muted); font-size: 0.9rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.1rem 1.15rem;
+      margin: 1.25rem 0;
+    }
+    a { color: var(--accent); }
+    code { font-size: 0.9em; }
+    ol { padding-left: 1.25rem; }
+  </style>
+</head>
+<body>
+  <h1>Request account &amp; data deletion</h1>
+  <p class="meta">CalorieTrack (com.gssei.calorietrack) · Last updated: August 16, 2026</p>
+
+  <div class="card">
+    <p>
+      You can request deletion of your <strong>CalorieTrack account</strong> and associated
+      <strong>cloud data</strong> (for example Firebase Authentication account data and synced
+      profile/subscription information linked to that account).
+    </p>
+  </div>
+
+  <h2>How to request deletion</h2>
+  <ol>
+    <li>Open your email app.</li>
+    <li>
+      Send an email to the <strong>support / developer email</strong> shown on the
+      <a href="https://play.google.com/store/apps/details?id=com.gssei.calorietrack">CalorieTrack Google Play listing</a>
+      (or the contact email listed for this app on Play).
+    </li>
+    <li>
+      Use subject line: <strong>CalorieTrack account deletion request</strong>
+    </li>
+    <li>
+      In the body, include:
+      <ul>
+        <li>The email address used for CalorieTrack (Google or email/password sign-in)</li>
+        <li>Optional: your Firebase / Google account email if different</li>
+        <li>A clear request to delete your account and associated cloud data</li>
+      </ul>
+    </li>
+  </ol>
+
+  <h2>What we delete</h2>
+  <ul>
+    <li>Your authentication account for CalorieTrack (when we can verify ownership)</li>
+    <li>Cloud-synced user/profile/subscription records linked to that account</li>
+  </ul>
+
+  <h2>What may remain on your device</h2>
+  <p>
+    Food diary and other data stored only on your phone can be removed by clearing app storage
+    in Android settings or uninstalling CalorieTrack. Guest-mode data is typically only on-device.
+  </p>
+
+  <h2>Timing</h2>
+  <p>
+    We aim to process verified deletion requests within <strong>30 days</strong> (or sooner when possible),
+    subject to security verification and legal retention requirements.
+  </p>
+
+  <p class="meta">
+    Related: <a href="./">Privacy Policy</a>
+  </p>
+</body>
+</html>
