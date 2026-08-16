@@ -1,0 +1,96 @@
+CalorieTrack Privacy Policy
+Last updated: August 16, 2026
+App: CalorieTrack (Android package com.gssei.calorietrack)
+
+CalorieTrack (“the App,” “we,” “us”) helps you log meals, track calories and macros, set goals, search foods, scan barcodes, use optional Photo AI food recognition, and (on Free) see ads. This Privacy Policy explains what information is collected, how it is used, and your choices.
+
+1. Who this policy covers
+This policy applies to the CalorieTrack mobile application available on Google Play and related services we operate (such as optional cloud food-AI analysis and account sync). It does not cover third-party websites or services that we do not control, even if linked from the App.
+
+2. Information we collect
+2.1 Information you provide
+Account information — if you sign in with email/password or Google: email address and authentication identifiers needed to create and maintain your account.
+Profile & goals — optional fields such as age, sex, height, weight, activity level, calorie/macro targets, and unit preferences.
+Food diary & habits — meals, foods, servings, water, exercise, weight logs, favorites, recipes, and related notes you enter.
+Photos — if you use Photo AI or barcode-from-photo, images you capture or select for analysis.
+Support messages — if you contact us by email, any information you include in that message.
+2.2 Information collected automatically
+Device & app data — device type, OS version, app version, language, and basic crash/diagnostic signals needed to run the App.
+Purchase status — whether you have an active Pro or Premium subscription via Google Play Billing (processed by Google; we receive purchase/entitlement status, not your full payment card details).
+Advertising (Free tier) — on Free, Google AdMob may collect advertising identifiers and usage signals to show ads. Paid Pro/Premium tiers are designed to be ad-free.
+3. How we use information
+Provide core features: diary, search, goals, progress charts, and settings.
+Authenticate you and sync account-linked data when you are signed in.
+Process Photo AI meal estimates when you choose that feature.
+Process food/barcode lookups via third-party databases you request.
+Process subscriptions and restore purchases through Google Play.
+Show ads on Free (via AdMob) and improve ad delivery/measurement.
+Maintain security, prevent abuse, and fix bugs.
+Comply with law and enforce our terms.
+We do not sell your personal information.
+
+4. Where data is stored
+On your device — diary and many preferences are stored locally on the device (for example in app storage). Guest mode keeps data primarily on-device.
+In the cloud (if you sign in) — when you create or use an account, authentication and selected user/subscription data may be stored with Google Firebase (including Firebase Authentication and Cloud Firestore) so you can sign in and sync across sessions/devices.
+Photo AI processing — if you use Photo AI, meal images (or image data) are sent to our food-analysis backend (for example Google Cloud Run) and may be processed by an AI provider (for example Google Gemini) to return estimated nutrition. We use this only to provide the feature you requested.
+5. Third-party services
+Depending on features you use, the App may interact with:
+
+Service	Purpose	Learn more
+Google Firebase (Auth, Firestore)	Account sign-in and cloud sync of user/subscription data	Firebase Privacy
+Google Sign-In	Optional sign-in with your Google account	Google Privacy Policy
+Google Play Billing	Pro / Premium subscriptions and restore purchases	Google Payments Privacy
+Google AdMob	Ads on Free tier	AdMob & privacy
+Open Food Facts	Food search and barcode product nutrition data	Open Food Facts Privacy
+Google Cloud / Gemini (Photo AI)	Optional meal photo analysis	Google Privacy Policy
+Google Fonts (web views if used)	Optional font loading when online	Google Privacy Policy
+These providers process data under their own policies. We encourage you to review them.
+
+6. Camera and photos
+Camera or photo-library access is optional and used only when you choose features that need it (barcode scan, barcode-from-photo, or Photo AI). You can deny camera permission; search and manual entry still work. Photos used for Photo AI are sent for analysis as described above; we do not use them to build marketing profiles.
+
+7. Subscriptions and payments
+Payments for Pro and Premium are handled by Google Play. We do not receive your full credit card number. Google provides us with purchase tokens / entitlement information so the App can unlock paid features and restore purchases.
+
+8. Advertising
+On the Free plan, the App may show banner and interstitial ads through Google AdMob. Ad networks may use advertising IDs and similar technologies. You can control ad personalization in your device settings (for example Google settings → Ads) where available. Upgrading to Pro or Premium removes ads in the App.
+
+9. Data sharing
+We share information only as needed to operate the App:
+
+With service providers listed above (hosting, auth, ads, payments, food databases, AI analysis).
+If required by law, legal process, or to protect rights, safety, and security.
+In connection with a business transfer (for example merger or asset sale), with notice where required.
+We do not share your food diary with other users or sell it to data brokers.
+
+10. Data retention
+On-device data — retained until you delete it in the App, clear app storage, or uninstall.
+Account data — retained while your account is active. You may request deletion by contacting us (see Contact).
+Photo AI requests — processed to return results; we do not intend to keep meal photos longer than needed to provide the feature and maintain reliability/security.
+Logs — short-lived technical logs may be kept for debugging and abuse prevention.
+11. Security
+We use reasonable technical and organizational measures (such as HTTPS for network traffic and reputable cloud providers). No method of transmission or storage is 100% secure. Protect your device with a screen lock and keep the App updated.
+
+12. Children
+The App is not directed to children under 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us data, contact us and we will take appropriate steps.
+
+13. International processing
+Our service providers may process data in the United States or other countries. By using the App, you understand that your information may be transferred to and processed in countries that may have different data-protection laws than your own.
+
+14. Your choices and rights
+Use the App as a guest (data stays mainly on-device) or sign in for account features.
+Deny camera permission.
+Clear or edit diary entries in the App; clear app data in Android settings; uninstall the App.
+Manage or cancel subscriptions in Google Play → Payments & subscriptions.
+Opt out of personalized ads via device/Google ad settings where available.
+Request access, correction, or deletion of account-linked data by contacting us (see below). Depending on your region (for example EEA/UK/California), you may have additional rights under applicable law.
+15. Health & wellness disclaimer
+CalorieTrack is a general wellness and self-tracking tool. It is not medical advice, diagnosis, or treatment. Nutrition estimates (including Photo AI) can be inaccurate. Consult a qualified professional for health decisions.
+
+16. Changes to this policy
+We may update this Privacy Policy from time to time. The “Last updated” date at the top will change when we do. Continued use of the App after changes means you accept the updated policy, except where additional consent is required by law.
+
+17. Contact
+For privacy questions or data requests about CalorieTrack, contact the developer using the support email listed on the Google Play store listing for this App (package com.gssei.calorietrack).
+
+© 2026 CalorieTrack. All rights reserved.
